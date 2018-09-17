@@ -78,6 +78,7 @@
     view_mode ? 'node--view-mode-' ~ view_mode|clean_class,
   ]
 -%}
+<div class="fb-like mb-3" data-href="{{- url -}}" data-layout="standard" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
 <article{{ attributes.addClass(classes).setAttribute('role', 'article') }}>
   <div class="node__container">
 
