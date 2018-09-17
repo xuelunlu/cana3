@@ -266,7 +266,7 @@ function at_core_preprocess_page(&$variables) {
     '#type' => 'inline_template',
     '#template' => '<div data-at-row="attribution" class="l-attribution l-row"><div class="l-pr attribution"><div class="l-rw">{{ attribution }}</div></div></div>',
     '#context' => [
-      'attribution' => \Drupal\Core\Link::fromTextAndUrl(t('Design by Adaptivethemes.com'), $attribution_url)->toString(),
+      'attribution' => \Drupal\Core\Link::fromTextAndUrl(t(''), $attribution_url)->toString(),
     ],
   ];
 

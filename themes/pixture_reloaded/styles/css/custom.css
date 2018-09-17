@@ -52,3 +52,110 @@
 	color: #fff;
 	background-color: #667788;
 }
+
+.pr-main__sidebar-first .block__title,
+.pr-main__sidebar-second .block__title {
+	color: #fcfcfc;
+	background-color: #db751f;
+}
+
+tr:hover {
+	background-color: #b7ccd7;
+}
+
+thead tr {
+	color: #404040;
+	background-color: #b7ccd7;
+}
+
+tr,
+td,
+th {
+	border-color: #a3bcc8;
+}
+
+#views-blockxiehuikecheng-block-2 .block__title {
+	color: #0000FF;
+}
+
+#views-blockxiehuihuodong-block-2 .block__title {
+	color: #0000FF;
+}
+
+#views-blockxiehuifuwu-block-2 .block__title {
+	color: #0000FF;
+}
+
+#views-blockgonggao-block-1 .block__title {
+	color: #0000FF;
+}
+
+#block-contentffda733d-d3cf-40a2-844e-500ed55a8e57 .block__title {
+	color: #0000FF;
+}
+
+#block-views-block-xiehuikecheng-block-1 .block__content {
+	padding: 0px;
+}
+
+.view-id-xiehuikecheng.view-display-id-block_1 thead {
+	display: none;
+}
+
+.view-id-xiehuikecheng.view-display-id-block_1 tr,
+.view-id-xiehuikecheng.view-display-id-block_1 td,
+.view-id-xiehuikecheng.view-display-id-block_1 th {
+	border-color: #cc9900;
+}
+
+.view-id-xiehuikecheng.view-display-id-block_1 tr.even {
+	background: #fff7eb;
+}
+
+.view-id-xiehuikecheng.view-display-id-block_1 tr.odd {
+	background: #ffffff;
+}
+
+#block-views-block-xiehuihuodong-block-1 .block__content {
+	padding: 0px;
+}
+
+.view-id-xiehuihuodong.view-display-id-block_1 thead {
+	display: none;
+}
+
+.view-id-xiehuihuodong.view-display-id-block_1 tr,
+.view-id-xiehuihuodong.view-display-id-block_1 td,
+.view-id-xiehuihuodong.view-display-id-block_1 th {
+	border-color: #cc9900;
+}
+
+.view-id-xiehuihuodong.view-display-id-block_1 tr.even {
+	background: #fff7eb;
+}
+
+.view-id-xiehuihuodong.view-display-id-block_1 tr.odd {
+	background: #ffffff;
+}
+
+#block-views-block-xiehuifuwu-block-1 .block__content {
+	padding: 0px;
+}
+
+.view-id-xiehuifuwu.view-display-id-block_1 thead {
+	display: none;
+}
+
+.view-id-xiehuifuwu.view-display-id-block_1 tr,
+.view-id-xiehuifuwu.view-display-id-block_1 td,
+.view-id-xiehuifuwu.view-display-id-block_1 th {
+	border-color: #cc9900;
+}
+
+.view-id-xiehuifuwu.view-display-id-block_1 tr.even {
+	background: #fff7eb;
+}
+
+.view-id-xiehuifuwu.view-display-id-block_1 tr.odd {
+	background: #ffffff;
+}
