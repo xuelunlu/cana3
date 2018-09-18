@@ -167,3 +167,7 @@ th {
 .table {
 	width: 100%;
 }
+
+#block-fb .block__content {
+	padding: 0px;
+}
